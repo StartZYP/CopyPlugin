@@ -1,5 +1,5 @@
 name: CopyPlugin
-main: com.ipedg.minecraft.jobsdata.main
+main: com.ipedg.minecraft.copydump.main
 version: 1.0
 commands:
   copy:
