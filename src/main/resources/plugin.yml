@@ -1,0 +1,7 @@
+name: CopyPlugin
+main: com.ipedg.minecraft.jobsdata.main
+version: 1.0
+commands:
+  copy:
+    aliases: cp
+    default: op
